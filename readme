@@ -1,0 +1,4 @@
+- npm init -y
+- npm i ts-node-dev tslint typescript -D
+- ./node_module/.bin/tsc --init
+- ./node_modules/.bin/tslint --init
